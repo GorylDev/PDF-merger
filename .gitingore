@@ -1,0 +1,17 @@
+#Foldery generowane przez aplikacje
+uploads/
+merged.pdf
+
+#VM
+venv/
+ENV/
+.env
+
+#Pliki tymczasowe Pythona
+__pycache__/
+*.py[cod]
+*$py.class
+
+#Pliki systemowe
+.DS_Store
+Thumbs.db
