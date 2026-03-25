@@ -16,5 +16,5 @@ Prosta aplikacja webowa zbudowana w **Flask** która pozwala na przesyłanie pli
 
 1. **Sklonuj repozytorium:**
    ```bash
-   git clone <url-twojego-repozytorium>
+   git clone <https://github.com/GorylDev/PDF-merger>
    cd <nazwa-folderu>
